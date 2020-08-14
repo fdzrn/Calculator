@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="angka_nol">0</string>
+    <string name="clear">C</string>
+    <string name="kurung_buka">(</string>
+    <string name="kurung_tutup">)</string>
+    <string name="angka_1">1</string>
+    <string name="angka_2">2</string>
+    <string name="angka_3">3</string>
+    <string name="pengurangan">-</string>
+    <string name="angka_4">4</string>
+    <string name="angka_5">5</string>
+    <string name="angka_6">6</string>
+    <string name="perkalian">*</string>
+    <string name="angka_7">7</string>
+    <string name="angka_8">8</string>
+    <string name="angka_9">9</string>
+    <string name="div">/</string>
+    <string name="koma">.</string>
+    <string name="equals">=</string>
+    <string name="pertambahan">+</string>
+    <string name="tampilan_awal">0</string>
+    <string name="delete">DEL</string>
+</resources>
